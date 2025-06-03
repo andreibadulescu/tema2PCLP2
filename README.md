@@ -58,3 +58,5 @@ salvată în registrul EBX are rolul de a simplifica verificările efectuate,
 În cazul funcției de verificare a pătratelor, am adaptat algoritmul
 astfel încât la fiecare 3 căsuțe verificate să modific adresa pentru a
 sări pe rândul următor. </p>
+
+<b> Copyright 2025 © Andrei-Marcel Bădulescu. All rights reserved. </b>
